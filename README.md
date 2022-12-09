@@ -10,12 +10,12 @@ Sus siglas significa **Markdown**.
 
 ## Sintáxis básicas de Markdown:
 
-> **Encabezados:** Para usar encabezados se usa (#), se usa segun el nivel del encabezado; en realidad tiene 6 nivel de encabezados, es decir, que se podrá usar de esta manera:
+- **Encabezados:** Para usar encabezados se usa (#), se usa segun el nivel del encabezado; en realidad tiene 6 nivel de encabezados, es decir, que se podrá usar de esta manera:
     (#), (##), (###), (####), (#####), (######)
 
 ---
 
->  **Lista desordenada:** esto son puntos antes de empezar de escribir se usa de la siguiente manera:
+-  **Lista desordenada:** esto son puntos antes de empezar de escribir se usa de la siguiente manera:
 
     - usando antes de escribir ( - ).
     - Usando antes de escribir ( + )
@@ -23,13 +23,13 @@ Sus siglas significa **Markdown**.
 
 ---
 
-> **Lista numerada:** simplemente escribiendo numeros antes de escribir. ejemplo:
+- **Lista numerada:** simplemente escribiendo numeros antes de escribir. ejemplo:
 
 1. Para hacer este uno que esta se escribe de la misma manera (1.) y asi sucesivamente con los demas numeros.
 
 ---
 
-> **Separaciones:** Esto es una separación con una linea, se lo usa de la siguiente manera:
+- **Separaciones:** Esto es una separación con una linea, se lo usa de la siguiente manera:
 
     Escribiendo ( --- ) 3 veces menos y da una separación.
 
