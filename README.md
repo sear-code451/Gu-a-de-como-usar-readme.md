@@ -33,4 +33,19 @@ Sus siglas significa **Markdown**.
 
     Escribiendo ( --- ) 3 veces menos y da una separación.
 
+---
 
+- **Negritas y cursivas:** se usa lo siguiente:
+
+    - Para negritas ( ** ) escribiendo 2 veces el por.
+    - Para cursiva ( * ) tan solo una vez.
+
+---
+
+- **Enlaces:** Se escribe de la siguiente manera:
+
+    - Primero el texto en donde se vera el enlace, se lo debe de colocar dentro de un corche
+    - Segundo la dirección del enlace dentro de un paréntesis.
+    - Se vera de la siguiente manera ( [nombre del texto].("la direccion del enlace") )
+    ejemplo
+    [enlace del video Markdown](https://www.youtube.com/watch?v=y6XdzBNC0_0&list=WL&index=2&t=129s)
