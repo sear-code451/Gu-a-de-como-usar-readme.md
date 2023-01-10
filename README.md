@@ -46,6 +46,29 @@ Sus siglas significa **Markdown**.
 
     - Primero el texto en donde se vera el enlace, se lo debe de colocar dentro de un corche
     - Segundo la dirección del enlace dentro de un paréntesis.
-    - Se vera de la siguiente manera ( [nombre del texto].("la direccion del enlace") )
-    ejemplo
+    - Se vera de la siguiente manera ( [nombre del texto].("la direccion del enlace") )     ... psdta escribirlo sin ese punto que está al medio.
+    - Ejemplo
     [enlace del video Markdown](https://www.youtube.com/watch?v=y6XdzBNC0_0&list=WL&index=2&t=129s)
+
+---
+
+> **Imágenes:** lo siguiente:
+
+    - es lo mismo que los enlaces pero con una diferencia, y es que se escribe un signo de exclamación antes. ejemplo:
+
+    - ![nombre del texto].("la direccion del enlace") ... psdta: sin el punto de en medio.
+
+---
+
+> **Código:** si queres solo usar una línea de código, basta solo que le dejes 4 de espacios. También si querés colocar mas lineas como código se hace lo siguiente; escribe 3 veces este caracter(~), arriba y abajo, ejemplo:
+
+(~~~)
+    Acá las linea de codigos que querrás colocar
+(~~~)
+    4 de espacio nos deja una linea de código
+~~~
+    nuestro bloque de códigos:
+    function hola() {
+        let como = 'comida';
+    }
+~~~
