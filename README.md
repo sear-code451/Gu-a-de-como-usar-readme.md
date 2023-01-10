@@ -65,7 +65,7 @@ Sus siglas significa **Markdown**.
 (~~~)
     Acá las linea de codigos que querrás colocar
 (~~~)
-    4 de espacio nos deja una linea de código
+
 ~~~
     nuestro bloque de códigos:
     function hola() {
